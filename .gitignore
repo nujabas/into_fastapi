@@ -1,0 +1,44 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Distribution / packaging
+.Python
+env/
+build/
+develop-eggs/
+dist/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+
+# pycharm
+.idea/
+
+# vs code
+.vscode
+.ipynb
+
+# virtualenv files
+venv
+
+# zip / xml/ csv/ xlsx
+*.zip
+*.xml
+*.csv
+*.jpg
+*.png
+
+.DS_Store
+~$*.xlsx
+
+.ipynb_checkpoints/
+
+.mypy_cache/
